@@ -1,0 +1,1 @@
+Some run fast. Some run slow. And for this week's challenge, let's build a program that predicts users' potential finish times for race distances (5k, 10k, half-marathon 21k, marathon 42k) based on their best pace per kilometer.
