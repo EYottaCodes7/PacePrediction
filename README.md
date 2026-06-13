@@ -1,5 +1,5 @@
 ## project name
-Withhlding Calculator
+Pace Prediction
 
 ## Overview
 
@@ -8,7 +8,7 @@ Given the best pace per kilometer (in minutes per kms), this program calculate p
 
 ## Programming language and tech
 Java
-processing 3.4 (with java & java-scripts
+processing 3.4 (with java & java-script)
 
 ## Author
 
